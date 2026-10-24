@@ -52,3 +52,15 @@ A collection of custom Claude (Cowork) skills for digital marketing and SEO — 
 Built by [Jansen Lu](https://github.com/hkjansen) — digital & social media marketing consultant based in Hong Kong.
 
 > These skills are designed for the Claude desktop app (Cowork mode). Requires Claude in Chrome for full SEO crawling functionality in First Page Ranker.
+
+### 🎬 Jan VidIQ Researcher
+
+**What it does:** Pulls measured VidIQ data for the @JansenLu YouTube channel, including search demand, title scores, competitor checks and dated HTML research briefs with visual evidence.
+
+**How to trigger:** Say things like:
+- `Research this YouTube idea with VidIQ`
+- `How much do people search [topic]?`
+- `Score these titles`
+
+📁 [`jan-vidiq-researcher/`](./jan-vidiq-researcher/)
+
