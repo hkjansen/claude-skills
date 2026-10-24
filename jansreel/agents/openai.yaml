@@ -1,0 +1,5 @@
+interface:
+  display_name: "JansReel"
+  short_description: "Casual summer style kit for travel reels"
+  brand_color: "#FF6F59"
+  default_prompt: "Use $jansreel to edit this travel reel with relaxed pacing, a type-only location opener, sunny sticker captions in the safe zone, and an ending info card. No logo."

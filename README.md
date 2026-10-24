@@ -64,3 +64,17 @@ Built by [Jansen Lu](https://github.com/hkjansen) — digital & social media mar
 
 📁 [`jan-vidiq-researcher/`](./jan-vidiq-researcher/)
 
+
+---
+
+### 🌴 JansReel
+
+**What it does:** Edits 9:16 travel reels and vertical shorts in a casual summer series style: relaxed pacing, a big type-only location opener, sunny sticker-style captions placed inside the IG Reels safe zone, and an ending info card with rating, transport and tips rows. No logo or local creative files needed — every graphic is drawn in the video.
+
+**Languages:** Captions in Traditional Chinese (standard written Chinese, no Cantonese).
+
+**How to trigger:**
+- `/jansreel`
+- `Make a summer travel reel from these clips`
+
+📁 [`jansreel/`](./jansreel/)
