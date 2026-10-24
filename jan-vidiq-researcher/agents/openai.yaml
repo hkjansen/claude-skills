@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jan VidIQ Researcher"
+  short_description: "Pull measured VidIQ data for Jansen's YouTube ideas."
+  default_prompt: "Use $jan-vidiq-researcher to research this YouTube idea with VidIQ and save a dated brief."
